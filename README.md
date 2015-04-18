@@ -14,6 +14,9 @@ Ya se pueden hacer imports
 * En eclipse importar un proyecto
 New > Import > General > Existing Projects in Workspace > Seleccionar el "root"
 
+* Hacer submit: en sbt
+submit nahuelsgk@gmail.com uqxUHtTvKv
+
 * Run the project:
 a) En sbt 
 > console
