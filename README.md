@@ -15,7 +15,7 @@ Ya se pueden hacer imports
 New > Import > General > Existing Projects in Workspace > Seleccionar el "root"
 
 * Hacer submit: en sbt
-submit nahuelsgk@gmail.com uqxUHtTvKv
+submit nahuelsgk@gmail.com 
 
 * Run the project:
 a) En sbt 
